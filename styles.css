@@ -1,8 +1,12 @@
 body{
     color: blueviolet;
-    background: black;
+    background: black(204, 187, 187)
+
+    margin: 0px;
 }
 
 header{
-    border: solid 2px white;
+    border-bottom: solid 2px white;
+
+    margin: 20px;
 }
