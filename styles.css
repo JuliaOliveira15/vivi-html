@@ -1,5 +1,5 @@
 body{
-    color: blueviolet;
+    color: rgb(35, 11, 58);
     background: black(204, 187, 187)
     margin: 0px;
 }
@@ -10,7 +10,7 @@ header{
     padding: 20px;
     font-size: 32px;
 
-    color: blueviolet;
+    color: rgb(68, 30, 104);
 }
 
 section{
